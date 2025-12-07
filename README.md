@@ -1,4 +1,5 @@
-# This program is not currently for distribution. 
+## Pitono
 
-Right now, it is only meant to be a place to show the source code for my 2024 Congressional App Challenge submission.
-I have to clean it up and make sure it can be replicated on a different device.
+Pitono is a plugin that allows you to code in 11 different languages: Chinese, French, German, Indonesian, Japanese, Bengali, Dutch, Hindi, Russian, Spanish, and Portuguese. 
+
+For example, instead of writing print in Spanish Python (aka Pitón) you can write imprimir. That way, non-English speakers can more easily understand Python and therefore will be more inclined to learn!
